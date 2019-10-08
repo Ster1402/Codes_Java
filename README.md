@@ -1,2 +1,0 @@
-# Ster
-Just a test !
